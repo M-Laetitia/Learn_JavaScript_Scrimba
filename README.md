@@ -6,9 +6,9 @@ This course contains 207 interactive screencasts spread across 8 modules (~10hrs
 ## Projects
 
 ▪ Counting App : [CodePen](https://codepen.io/M-Laetitia/pen/PoXpQbb)  
-▪ BlackJack : []()  
-▪ Chrome Extension : []()  
-▪ Mobile App : []()  
+▪ BlackJack App : [CodePen](https://codepen.io/M-Laetitia/pen/bGOqLxL)  
+▪ Chrome Extension  
+▪ Grocery List App : [CodePen](https://codepen.io/M-Laetitia/pen/MWZpVKM)  
 
 
 ![Preview of the 4 projects](Images/preview_4_projects.png)
