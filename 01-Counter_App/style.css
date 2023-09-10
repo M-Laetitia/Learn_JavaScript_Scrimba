@@ -1,0 +1,80 @@
+html, body {
+    height: 100%;
+    overflow: hidden;
+}
+
+body {
+    background: linear-gradient(230deg, #2c4257,#172635);
+    background-repeat: no-repeat;
+    font-family: Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-align: center;
+}
+
+.wrapper {
+    width: 350px;
+    height: 550px;
+    margin: 40px auto;
+    border-radius: 3px;
+    box-shadow: 7px 7px 10px #161c28, 12px 12px 15px #1f2f3f;
+    background-color: #12101b;
+    background-image: url("./Tea_picture.jpg");
+    background-repeat: no-repeat;
+    background-position: 0 -200px;
+    background-size: cover;
+    overflow: hidden;
+}
+
+h1 {
+    font-family: 'Dancing Script', cursive;
+    font-size: 2.8rem; 
+    color: #e29732;
+    bottom: 120px;
+    transform: translateY(290px);
+}
+
+h2 {
+    font-size: 2rem;
+    font-weight: lighter;
+    color: #e29732;
+    transform: translateY(270px);
+}
+
+.buttons {
+    display: flex;
+    justify-content: center;
+    transform: translateY(250px);
+   
+}
+
+button {
+    border: none;
+    padding: 10px 0 ;
+    color: white;
+    font-weight: bold;
+    margin-bottom: 5px;   
+    cursor: pointer;
+    
+}
+
+#increment-btn {
+    background: #e29732;
+    width: 130px;
+    border-radius: 4px 0 0 4px;
+    text-transform: uppercase;
+    color: #12101b;
+
+}
+
+#save-btn {
+    width: 60px;
+    border-radius: 0  4px 4px 0;
+    color: #12101b;
+    background: #eae8d9;
+
+}
+
+p {
+    color: #e29732;
+    transform: translateY(250px);
+    font-size: 1.2rem;  
+}
